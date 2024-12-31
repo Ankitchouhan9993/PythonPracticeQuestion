@@ -1,0 +1,1 @@
+print("list after del:",l)
